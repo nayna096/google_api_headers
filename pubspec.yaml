@@ -19,9 +19,9 @@ dev_dependencies:
     sdk: flutter
   mocktail: 1.0.4
 
-flutter:
-  plugin:
-    platforms:
-      android:
-        package: io.github.zeshuaro.google_api_headers
-        pluginClass: GoogleApiHeadersPlugin
+# flutter:
+#   plugin:
+    # platforms:
+    #   android:
+    #     package: io.github.zeshuaro.google_api_headers
+    #     pluginClass: GoogleApiHeadersPlugin
